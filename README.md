@@ -3,7 +3,7 @@
 ### Source : Xu, J., Chen, Y., Xie, T., Zhao, X., Xiong, B., Chen, Z., (2019), Prediction of triaxial behavior of recycled aggregate concrete using multivariable regression and artificial neural network techniques, Construction and Building Materials, Volume 226, Pages 534-554, ISSN 0950-0618, https://doi.org/10.1016/j.conbuildmat.2019.07.155
 
 
-This repository consist of files which can be used to refer the ways of training a machine learning model using MAST-ML and upload the model to the cloud foundry.
+This repository consist of files which can be used to refer the ways of training a machine learning model using [MAST-ML](https://github.com/uw-cmg/MAST-ML) and upload the model to the cloud foundry.
 
 ## Steps to follow
 
