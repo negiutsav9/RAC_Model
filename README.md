@@ -10,6 +10,6 @@ This repository consist of files which can be used to refer the ways of training
 1. Run the jupyter notebook paperModel_MNR.ipynb to generate model weights, preprocessed data and calibration file for each model
 2. For each model, create a directory with its model.pkl, preprocessor.pkl, calibration_file.csv, requirements.txt and X_train.csv files (refer Container files)
 3. Run Repo2Docker in each directory to simulate a cloud foundry instance
-4. After successful testing, upload the files to the foundry by referring the model upload section of the Jupyter Notebook.
+4. After successful testing, upload the files to the foundry by referring the Jupyter Notebook modelDeployment.ipynb.
 
 Note that the names of the files (model.pkl, preprocessor.pkl, calibration_file.csv, requirements.txt and X_train.csv) should be always consistent as the foundry instance will look out for these files while performing prediction tasks
